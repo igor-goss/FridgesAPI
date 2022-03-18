@@ -1,7 +1,7 @@
 ### 
 *.sln
 *.dll
-*.csprog*
+*.csproj*
 *.bin
 *.cache
 *.txt
